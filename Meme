@@ -1,0 +1,2 @@
+git remote add origin https://github.com/ALIENBOY1412/Danny.git
+git push -u origin master
